@@ -1,9 +1,10 @@
 ---
-title: "Hey, I am John Doe!"
+title: "LevelUp HQ"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/logo.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+LevelUp HQ is a studio that specializes in creating mobile applications for both Android and iOS. We are a team of developers who are passionate about creating high-quality applications that are both user-friendly and visually appealing.
+
