@@ -6,7 +6,7 @@
 # footer menu
 [[footer]]
 name = "About"
-pageRef = "https://sudofishlabs.github.io/"
+url = "https://sudofishlabs.github.io/"
 weight = 1
 
 [[footer]]
