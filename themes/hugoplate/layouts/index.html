@@ -31,15 +31,21 @@
           <div class="col-12 mb-4 text-center">
             <div class="store-buttons inline-flex gap-4">
               <a href="/" target="_blank">
-                <img src="/images/gallery/playstore.png" alt="Google Play Store" class="h-12">
+                <img
+                  src="/images/gallery/playstore.png"
+                  alt="Google Play Store"
+                  class="h-12" />
               </a>
               <a href="/" target="_blank">
-                <img src="/images/gallery/appstore.png" alt="Apple App Store" class="h-12">
+                <img
+                  src="/images/gallery/appstore.png"
+                  alt="Apple App Store"
+                  class="h-12" />
               </a>
             </div>
           </div>
           <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto  !max-w-[400px]" "DisplayXL" "800x" ) }}
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto w-full !max-w-[400px] h-auto" "DisplayXL" "800x" ) }}
           </div>
         </div>
       </div>
@@ -90,6 +96,4 @@
     </section>
   {{ end }}
   <!-- /Features -->
-
-
 {{ end }}
