@@ -6,5 +6,4 @@ image: "/images/logo.png"
 draft: false
 ---
 
-Sudofish Labs is a studio that specializes in creating mobile applications for both Android and iOS. We are a team of developers who are passionate about creating high-quality applications that are both user-friendly and visually appealing.
-
+Hi, I'm Hemant Chaudhary, the creator of Sudofish Labs. I specialize in developing high-quality mobile applications for both Android and iOS. With a passion for crafting user-friendly and visually appealing experiences, I focus on building apps that combine functionality with great design.
