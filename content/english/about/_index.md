@@ -6,4 +6,6 @@ image: "/images/logo.png"
 draft: false
 ---
 
-Hi, I'm Hemant Chaudhary, the creator of Sudofish Labs. I specialize in developing high-quality mobile applications for both Android and iOS. With a passion for crafting user-friendly and visually appealing experiences, I focus on building apps that combine functionality with great design.
+LevelUp for Hackernews is created by Hemant Chaudhary, an independent app developer and founder of the app studio, SudoFish Labs ([sudofish.com](https://sudofish.com)). Born out of Hemant's own use of Hacker News – often finding himself wanting to grasp the key points of an article and jump straight to the comments :)
+
+This app marks the first release from SudoFish Labs. Follow [@sudofishlabs](https://x.com/sudofishlabs) on X to see what's next!
