@@ -1,3 +1,13 @@
+---
+title: "Account Deletion"
+# meta title
+meta_title: "Account Deletion"
+# meta description
+description: "account deletion"
+# save as draft
+draft: false
+---
+
 LevelUp for Hackernews ("the app") does not control your Hacker News account. Please contact Hacker News directly at hn@ycombinator.com to request account deletion.
 
 If you use the Login with Google functionality, please visit https://support.google.com/accounts/answer/32046?hl=en for the official Google guide on account deletion.

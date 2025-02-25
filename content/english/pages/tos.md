@@ -1,3 +1,13 @@
+---
+title: "Terms of Service"
+# meta title
+meta_title: "tos"
+# meta description
+description: "tos"
+# save as draft
+draft: false
+---
+
 **LevelUp For Hackernews - Terms of Service**
 
 **Effective Date:** February 25, 2025

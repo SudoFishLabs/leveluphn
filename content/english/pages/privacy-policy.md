@@ -1,3 +1,13 @@
+---
+title: "Privacy Policy"
+# meta title
+meta_title: "Privacy Policy"
+# meta description
+description: "privacy policy"
+# save as draft
+draft: false
+---
+
 **LevelUp For Hackernews - Privacy Policy**
 
 **Effective Date:** February 25, 2025
