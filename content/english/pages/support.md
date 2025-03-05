@@ -6,7 +6,7 @@ draft: false
 ---
 
 ### Reach Out to Us
-For any support-related issues, please reach out to [admin@sudofish.com](mailto:admin@sudofish.com).
+Please reach out to [admin@sudofish.com](mailto:admin@sudofish.com) for technical support and other queries.
 
 ---
 
@@ -45,7 +45,7 @@ For any support-related issues, please reach out to [admin@sudofish.com](mailto:
 ---
 
 ### Feature Request  
-The app includes a **"Suggest New Feature"** option, allowing users to submit their feature requests directly within the app.
+Please use the "Suggest New Feature" functionality within the app to submit feature requests.
 
 ---
 
