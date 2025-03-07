@@ -18,10 +18,10 @@ By accessing or using the LevelUp For Hackernews application ("the App"), publis
 
 **2. User Conduct**
 
-You agree to use the App responsibly and in accordance with all applicable laws and regulations. You further agree *not* to:
+You agree to use the App responsibly and in accordance with all applicable laws and regulations. There is no tolerance for objectionable content or abusive users. You further agree *not* to:
 
 *   Use the App for any illegal or unauthorized purpose.
-*   Violate the terms of service of Hacker News. Your use of the App to interact with Hacker News is subject to Hacker News's own terms and policies.
+*   Violate the terms of service of Hacker News. Your use of the App to interact with Hacker News is subject to Hacker News's own terms and policies. Please read the Hacker News content guidelines at https://news.ycombinator.com/newsguidelines.html
 *   Attempt to gain unauthorized access to any part of the App or its systems.
 *   Interfere with or disrupt the operation of the App.
 *   Use the App to transmit any viruses, worms, or other malicious code.
