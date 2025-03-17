@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "LevelUp for Hackernews"
+  title: "LevelUp for Hacker News"
   titleTag: "(with AI Summary)"
-  content: "LevelUp for Hackernews is a cross-platform client that lets you browse the latest news, stories, and comments with ease and features AI-generated news summaries to help you stay informed quickly. Available on both Android and iOS, it’s built with React Native."
+  content: "LevelUp for Hacker News is a cross-platform client that lets you browse the latest news, stories, and comments with ease and features AI-generated news summaries to help you stay informed quickly. Available on both Android and iOS, it’s built with React Native."
   image: "/images/themes-ss.png"
   
 

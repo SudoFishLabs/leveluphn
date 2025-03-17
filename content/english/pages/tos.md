@@ -8,13 +8,13 @@ description: "tos"
 draft: false
 ---
 
-**LevelUp For Hackernews - Terms of Service**
+**LevelUp For Hacker News - Terms of Service**
 
 **Effective Date:** February 25, 2025
 
 **1. Acceptance of Terms**
 
-By accessing or using the LevelUp For Hackernews application ("the App"), published by Hemant Chaudhary, you ("you" or "User") agree to be bound by these Terms of Service ("Terms"). `sudofish.com` is a website fully owned by Hemant Chaudhary. If you do not agree to these Terms, you may not use the App.
+By accessing or using the LevelUp For Hacker News application ("the App"), published by Hemant Chaudhary, you ("you" or "User") agree to be bound by these Terms of Service ("Terms"). `sudofish.com` is a website fully owned by Hemant Chaudhary. If you do not agree to these Terms, you may not use the App.
 
 **2. User Conduct**
 

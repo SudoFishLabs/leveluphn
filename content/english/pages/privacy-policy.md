@@ -8,13 +8,13 @@ description: "privacy policy"
 draft: false
 ---
 
-**LevelUp For Hackernews - Privacy Policy**
+**LevelUp For Hacker News - Privacy Policy**
 
 **Effective Date:** February 25, 2025
 
 **Introduction**
 
-LevelUp For Hackernews ("the App") is published by Hemant Chaudhary. `sudofish.com` is a website fully owned by Hemant Chaudhary. We are committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use the App. Please read this policy carefully. By using the App, you consent to the data practices described in this policy.
+LevelUp For Hacker News ("the App") is published by Hemant Chaudhary. `sudofish.com` is a website fully owned by Hemant Chaudhary. We are committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use the App. Please read this policy carefully. By using the App, you consent to the data practices described in this policy.
 
 **1. Information We Collect**
 
