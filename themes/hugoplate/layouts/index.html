@@ -4,33 +4,44 @@
     <section class="section pt-14">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 md:col-9 mb-6 text-center">
-            <h1 class="mb-4 text-h3 lg:text-h1">
-              {{ .title | markdownify }}
-            </h1>
-            <h1 class="mb-4 text-h3 lg:text-h1">
-              {{ .titleTag | markdownify }}
-            </h1>
-            <p>
+          <div class="lg:col-8 md:col-9 mb-6">
+            <div class="flex flex-col lg:flex-row items-center lg:items-start">
+              <div class="mb-4 lg:mb-0 lg:mr-6 self-center">
+                {{ partial "image" (dict "Src" .titleImage "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto w-full !max-w-[160px] h-auto" "DisplayL" "300x" ) }}
+              </div>
+              <div class="text-center lg:text-left self-center">
+                <h3 class="mb-2 text-h3 lg:text-h1">
+                  {{ .title | markdownify }}
+                </h3>
+                <h4 class="mb-4 text-h5 lg:text-h3 text-gray-600 dark:text-gray-400">
+                  {{ .titleTag | markdownify }}
+                </h4>
+              </div>
+            </div>
+            <p class="mt-4 text-center lg:text-left">
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
               {{ if .enable }}
-                <a
-                  class="btn btn-primary"
-                  href="{{ .link | absURL }}"
-                  {{ if strings.HasPrefix .link `http` }}
-                    target="_blank" rel="noopener"
-                  {{ end }}>
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
+                <div class="text-center lg:text-left mt-4">
+                  <a
+                    class="btn btn-primary"
+                    href="{{ .link | absURL }}"
+                    {{ if strings.HasPrefix .link `http` }}
+                      target="_blank" rel="noopener"
+                    {{ end }}>
+                    {{ .label }}
+                    <i class="fa fa-arrow-right pl-2"></i>
+                  </a>
+                </div>
               {{ end }}
             {{ end }}
           </div>
           <div class="col-12 text-center">
             <div class="store-buttons inline-flex">
-              {{ partial "image" (dict "Src" "/images/gallery/playstore-soon.png" "Alt" "Google Play Store" "Loading" "eager" "Class" "max-h-32 w-auto") }}
+              <a href="https://play.google.com/store/apps/details?id=com.sudofish.levelup" target="_blank">
+                {{ partial "image" (dict "Src" "/images/gallery/playstore.png" "Alt" "Google Play Store" "Loading" "eager" "Class" "max-h-32 w-auto") }}
+              </a>
               <a href="https://apps.apple.com/in/app/levelup-for-hackernews/id6739486543" target="_blank">
                 {{ partial "image" (dict "Src" "/images/gallery/appstore.png" "Alt" "Apple App Store" "Loading" "eager" "Class" "max-h-32 w-auto") }}
               </a>
